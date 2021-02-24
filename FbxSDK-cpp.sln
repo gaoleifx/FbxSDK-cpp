@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FbxSDK-cpp", "FbxSDK-cpp.vcxproj", "{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Debug|x64.ActiveCfg = Debug|x64
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Debug|x64.Build.0 = Debug|x64
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Debug|x86.Build.0 = Debug|Win32
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Release|x64.ActiveCfg = Release|x64
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Release|x64.Build.0 = Release|x64
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Release|x86.ActiveCfg = Release|Win32
+		{1609AE9B-7E4C-462A-BC6A-3225FA0032FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6228FBA-3E48-42EF-B38B-93B3893AB147}
+	EndGlobalSection
+EndGlobal
